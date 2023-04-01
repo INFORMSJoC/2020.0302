@@ -1,0 +1,15 @@
+﻿Max. trucks per platoon ;3;2;2
+Platoons per trip ;Infinity;Infinity;1
+;;;
+UNIFORM;;;
+Average ;554;426;321
+Maximum ;659;577;347
+Minimum ;427;326;224
+ONEORIG;;;
+Average ;2513;773;406
+Maximum ;4750;886;577
+Minimum ;1231;733;306
+ONEDEST;;;
+Average ;1194;613;935
+Maximum ;2191;798;1279
+Minimum ;680;474;650
